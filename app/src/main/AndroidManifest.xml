@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Jmartandroid">
         <activity
+            android:name=".MainMenuActivity"
+            android:exported="false" />
+        <activity
+            android:name=".RecycleActivity2"
+            android:exported="false" />
+        <activity
             android:name=".activity_create_product"
             android:exported="false" />
         <activity
